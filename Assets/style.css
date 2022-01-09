@@ -22,8 +22,8 @@ body {
 }
 
 .logo-img img {
-    width: 8rem;
-    height: 7rem;
+  width: 8rem;
+  height: 7rem;
   border-radius: 50%;
   box-shadow: 3px 0px 25px #848484;
 }
@@ -35,8 +35,8 @@ body {
 
 .form-group input {
   border: 0;
-    height: 38px;
-    width: 19rem;
+  height: 38px;
+  width: 19rem;
   font-size: 18px;
   border-radius: 5px;
 }
@@ -44,6 +44,11 @@ body {
 button {
   width: 60%;
   margin: 5px 0 25px;
+}
+
+.login {
+  color: white;
+  text-decoration: none !important;
 }
 
 .forgot {
