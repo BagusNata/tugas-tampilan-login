@@ -22,21 +22,21 @@ body {
 }
 
 .logo-img img {
-  width: 10rem;
-  height: 9rem;
+    width: 8rem;
+    height: 7rem;
   border-radius: 50%;
   box-shadow: 3px 0px 25px #848484;
 }
 
 .form-box {
-  padding: 3rem;
-  padding-bottom: 1.5rem;
+  padding: 2rem;
+  padding-bottom: 1rem;
 }
 
 .form-group input {
   border: 0;
-  height: 42px;
-  width: 18rem;
+    height: 38px;
+    width: 19rem;
   font-size: 18px;
   border-radius: 5px;
 }
